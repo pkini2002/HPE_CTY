@@ -1,41 +1,67 @@
-How To Add Files To This Repository 
+#How To Add Files To This Repository 
 
-One Time Setup [ Do This Only Once ]
+##One Time Setup [ Do This Only Once ]
 
-Clone the Repository:
-git clone https://github.com/vidyesh-kumar/HPE_CTY.git
+1.Clone the Repository:
+bash ```
+    git clone https://github.com/vidyesh-kumar/HPE_CTY.git
+``` 
 
-Create A New Branch:
+2.Create A New Branch:
+bash ```
 git branch <Your Name>
+``` 
 
-Go To The New Branch:
+3.Go To The New Branch:
+bash ```
 git checkout <Your Name>
+``` 
 
-Create A New Folder in Learning Folder:
+4.Create A New Folder in Learning Folder:
+bash ```
 cd Learning
 mkdir <Your Name>
+``` 
 
-Come Back to Main Folder:
+5.Come Back to Main Folder:
+bash ```
 cd ..
+``` 
 
-Folder Modification [ Everytime Any Changes Done To The Folder Like Addition of New File(s), Modification of File(s)]
+##Folder Modification [ Everytime Any Changes Done To The Folder Like Addition of New File(s), Modification of File(s), Deletion of File(s)]
 
-Make Sure You Are in The HPE_CTY Folder
+1.Make Sure You Are in The HPE_CTY Folder
+bash ```
 pwd
+``` 
 
-Make Sure You Are In Your Branch
+2.Make Sure You Are In Your Branch
+bash ```
 git branch
+``` 
 Note: Your branch will be highlighted with a star 
 
-If You are not in Your Branch 
+2a. If You are not in Your Branch :
+bash ```
 git checkout <Your Name>
-and then Verify using git branch
+``` 
 
-Save Your Changes:
+2b. And then Verify using 
+bash ```
+git branch
+``` 
+
+3.Save Your Changes:
+bash ```
 git add .
+``` 
 
-Commit Your Changes:
+4.Commit Your Changes:
+bash ```
 git commit -m "A Message regarding what u added/learnt"
+``` 
 
-Push Your Changes To Your Branch:
+5.Push Your Changes To Your Branch:
+bash ```
 git push -u origin <Your Name>
+``` 
