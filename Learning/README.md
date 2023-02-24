@@ -4,7 +4,7 @@
 
 1.Clone the Repository:
 bash ```
-    git clone https://github.com/vidyesh-kumar/HPE_CTY.git
+git clone https://github.com/vidyesh-kumar/HPE_CTY.git
 ``` 
 
 2.Create A New Branch:
