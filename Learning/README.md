@@ -65,4 +65,4 @@ git commit -m "A Message regarding what u added/learnt"
 git push -u origin <Your Name>
 ``` 
 
-Your Files Are Now Added To Your Branch It Can Be Added To The Main Branch Anytime With A Pull Request By Visiting Github And Clicking On The Prompt, Or Clicking On The Box N Commits ahead of main.
+Your Files Are Now Added To Your Branch It Can Be Added To The Main Branch Anytime With A Pull Request By Visiting Github And Clicking On The Prompt, Or Clicking On The Box N Commits ahead/behind of main on your Branch.
