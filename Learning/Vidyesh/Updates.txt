@@ -1,0 +1,5 @@
+Feb 26th - Went Through Documentation of Scikit Learn Searching How to Implement Callbacks
+Feb 27th - Went Through Base Classes Of Scikit Learn For Overiding Function
+Feb 28th - Implemented A Simple Custom Callback On Jupyter Notebook (on_train_start,on_train_end)
+Mar 1st  - Implemented On_Train Callback Using Print Statements
+Mar 3rd  - Implemented A Callback Class For Training Process

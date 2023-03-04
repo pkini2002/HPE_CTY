@@ -6,6 +6,11 @@
 git clone https://github.com/vidyesh-kumar/HPE_CTY.git
 ``` 
 
+1. Make sure You Are Inside HPE_CTY Folder:
+``` bash
+cd HPE_CTY
+``` 
+
 2. Create A New Branch:
 ``` bash
 git branch <Your Name>
