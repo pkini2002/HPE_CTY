@@ -4,9 +4,12 @@ Feb 28th - Implemented A Simple Custom Callback On Jupyter Notebook (on_train_st
 Mar 1st  - Implemented On_Train Callback Using Print Statements
 Mar 3rd  - Implemented A Callback Class For Training Process
 Mar 9th  - Activated Swarm Learning License On APLS [ Used wine to install APLS ]
-Mar 11th - Went Through Swarm Learning Installation Steps [ Faced IP Error ]
-Mar 13th - [ Rectified IP Error ] Installed Swarm Learning & went ahead to Run MNIST example [ Faced Error On Step 10 ]
+Mar 11th - Went Through Swarm Learning Installation Steps [ Faced Username Error ]
+Mar 13th - [ Rectified Username Error ] Installed Swarm Learning & went ahead to Run MNIST example [ Faced Error On Step 10 ]
            [ Didnt Check Docker Logs on Step 8 ]
 Mar 14th - [ Checked Docker Logs on Step 8 ][ Didnt Move From Acquiring License As APLS was set to 172.1.1.1 ] Tried to run Fraud Detection On Single System with proper IP [ Service that starts localhost:5814 was not properly installed because of wine Installation ]. Hence APLS couldnt be started 
            [ Uninstalled APLS ] [ Reinstalling said it is Already present even though all files are deleted ]
-            
+Mar 15th - Installed Ubuntu & APLS on External HDD [ Completed Swarm Installation ]
+Mar 16th - Tried to run Credit Card Fraud Detection with Proper IP [ SWCI Started and Terminated with a Internal Server Error Status:500 ]
+Mar 17th - Cleared the Existing Swarm workspace directory using scripts/bin/swarm-stop and tried the process again [ SN didnt start the Swarm API Server ]
+
