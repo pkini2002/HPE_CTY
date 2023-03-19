@@ -12,4 +12,5 @@ Mar 14th - [ Checked Docker Logs on Step 8 ][ Didnt Move From Acquiring License 
 Mar 15th - Installed Ubuntu & APLS on External HDD [ Completed Swarm Installation ]
 Mar 16th - Tried to run Credit Card Fraud Detection with Proper IP [ SWCI Started and Terminated with a Internal Server Error Status:500 ]
 Mar 17th - Cleared the Existing Swarm workspace directory using scripts/bin/swarm-stop and tried the process again [ SN didnt start the Swarm API Server ]
-
+Mar 18th - Cleared the Existing Swarm workspace directory using scripts/bin/swarm-stop and tried the process again [ SWCI & SWOP Started and Terminated with a Internal Server Error Status:500 ]
+Mar 19th - Modified Custom Callback To Implement Similar Workflow
