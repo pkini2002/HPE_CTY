@@ -15,3 +15,7 @@ Mar 17th - Cleared the Existing Swarm workspace directory using scripts/bin/swar
 Mar 18th - Cleared the Existing Swarm workspace directory using scripts/bin/swarm-stop and tried the process again [ SWCI & SWOP Started and Terminated with a Internal Server Error Status:500 ]
 Mar 19th - Modified Custom Callback To Implement Similar Workflow
 Mar 21st - Modified Custom Callback Further To Include All Model Methods
+Mar 23nd - Installed Virtual Box and Ubuntu VM along with Docker
+Mar 24th - Installed APLS, Swarm Learning , Configured Docker
+Mar 25th - Executed Swarm Learning Fraud Detection Example [ Screenshots to be Uploaded. Removed Error Screenshots ]
+Mar 26th - Converted CustomCallback.ipynb to CustomCallback.py and Created SwarmExamples.ipynb for Trying Model Execution on Ubuntu VM
