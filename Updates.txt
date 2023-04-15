@@ -19,3 +19,7 @@ Mar 23nd - Installed Virtual Box and Ubuntu VM along with Docker
 Mar 24th - Installed APLS, Swarm Learning , Configured Docker
 Mar 25th - Executed Swarm Learning Fraud Detection Example [ Screenshots to be Uploaded. Removed Error Screenshots ]
 Mar 26th - Converted CustomCallback.ipynb to CustomCallback.py and Created SwarmExamples.ipynb for Trying Model Execution on Ubuntu VM
+Mar 29th - Tried Running fraud-detection.py (MLNodeCode)[ fixed dependency issues ]
+Apr 1st  - Tried Running fraud-detection.py (MLNodeCode)[ faced Bad Environment Variable Error ]
+Apr 3rd  - Tried Running SWCI in Web Mode [ Encountered License Error ] (Use of Non-Community Edition Feature)
+Apr 15th - Ran SWCI in WEB Mode. [ Created new tasks from YAML files ][ Recreated output of running SWCI in Normal Mode using WEB Mode]
